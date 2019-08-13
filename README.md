@@ -1,5 +1,7 @@
 # CURSO: Unity para psicología experimental
 
+![logo](<https://raw.githubusercontent.com/CarlosManuelRodr/Unity-PsicologiaExperimental/master/img/logo.png>)
+
 Curso de Unity para aplicaciones de psicología experimental. En este curso el estudiante aprenderá a:
 
 - Crear videojuegos usando el motor Unity
@@ -9,13 +11,13 @@ Curso de Unity para aplicaciones de psicología experimental. En este curso el e
 
 Durante el curso el estudiante programará un videojuego en el que se simulará la interacción de dos participantes.
 
-![Pantalla principal](<https://raw.githubusercontent.com/CarlosManuelRodr/ExperimentoHuertos/master/img/1.png>)
+![Pantalla principal](<https://raw.githubusercontent.com/CarlosManuelRodr/Unity-PsicologiaExperimental/master/img/1.png>)
 
 El juego consta de varios parámetros configurables por los experimentadores.
 
-![configuracion](<https://raw.githubusercontent.com/CarlosManuelRodr/ExperimentoHuertos/master/img/2.png>)
+![configuracion](<https://raw.githubusercontent.com/CarlosManuelRodr/Unity-PsicologiaExperimental/master/img/2.png>)
 
-![main screen](<https://raw.githubusercontent.com/CarlosManuelRodr/ExperimentoHuertos/master/img/3.png>)
+![main screen](<https://raw.githubusercontent.com/CarlosManuelRodr/Unity-PsicologiaExperimental/master/img/3.png>)
 
 ## Requisitos
 
